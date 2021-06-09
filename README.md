@@ -1,2 +1,2 @@
 # Quizz-Application
-quiz web application made using react
+quiz web application made using js
